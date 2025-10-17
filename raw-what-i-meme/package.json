@@ -12,6 +12,8 @@
   "pre-commit": "check",
   "dependencies": {
     "@tailwindcss/vite": "^4.1.13",
+    "firebase": "12.4.0",
+    "firebase-tools": "^14.19.1",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "react-error-boundary": "^6.0.0",
